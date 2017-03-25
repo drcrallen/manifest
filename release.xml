@@ -49,7 +49,7 @@
   <project groups="minilayout" name="coreos/toolbox" path="src/third_party/toolbox" revision="0d4a3038cd8339616750b608b637f82a88e8a37d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/update_engine" path="src/third_party/update_engine" revision="5e7417c0c58b3e4e965d7ba7b071bb868c9f1046" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/updateservicectl" path="src/third_party/updateservicectl" revision="f2f0ae3fdf1d925a3b7825d20bb6fe0a680c0889" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="drcrallen/drcrallen-overlay" path="src/third_party/drcrallen-overlay" revision="38971308aebbb40dd651785a7282b85a46053dac" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="drcrallen/mesos-gentoo-overlay" path="src/third_party/mesos-gentoo-overlay" revision="1c416e17193073fa172907c5e3c65adc78d3c9c3" upstream="refs/heads/master"/>
   
   <repo-hooks enabled-list="pre-upload" in-project="chromiumos/repohooks"/>
 </manifest>
