@@ -160,8 +160,8 @@ Your sources have been sync'd successfully.
            name="coreos/coreos-metadata"
            groups="minilayout" />
 
-  <project path="src/third_party/drcrallen-overlay"
-           name="drcrallen/drcrallen-overlay"
+  <project path="src/third_party/mesos-gentoo-overlay"
+           name="drcrallen/mesos-gentoo-overlay"
            groups="minilayout" />
 
 </manifest>
